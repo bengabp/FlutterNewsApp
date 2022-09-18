@@ -1,6 +1,6 @@
-# newsapp
+# FlutterNewsApp
 
-A new Flutter project.
+A simple new app made with flutter. When I made this project I didnt know much about git and github, so now I've known how to use github and git, I have uploaded all the files. 
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Building an apk 
+First make sure you have this repository clonned, then navigate into the project directory and run `flutter run`
+This should build the app in debug mode.
+
